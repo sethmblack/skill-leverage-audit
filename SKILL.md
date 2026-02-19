@@ -3,8 +3,8 @@ name: leverage-audit
 description: 'Analyze how someone is (or isn''t) applying leverage to their work, following Naval Ravikant''s framework of the three types of leverage: labor, capital, and code/media.'
 license: MIT
 metadata:
+  version: 1.0.4381
   author: sethmblack
-  version: 1.0.4380
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - leverage-audit
